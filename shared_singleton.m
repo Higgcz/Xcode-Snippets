@@ -13,6 +13,6 @@
     dispatch_once(&onceToken, ^{
         _sharedInstance = <#initializer#>;
     });
-    
+
     return _sharedInstance;
 }
