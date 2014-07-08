@@ -1,6 +1,7 @@
 // Variable argument list
 // 
 //
+// IDECodeSnippetCompletionPrefix: val
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 47186772-87B0-4B53-8DE1-65A6F35ABF1D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
