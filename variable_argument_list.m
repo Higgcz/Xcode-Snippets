@@ -1,5 +1,5 @@
 // Variable argument list
-// 
+// Enumerate elements in variable argument list
 //
 // IDECodeSnippetCompletionPrefix: val
 // IDECodeSnippetCompletionScopes: [CodeBlock]
