@@ -1,5 +1,5 @@
 // Function Header Separator
-// 
+//
 //
 // IDECodeSnippetCompletionPrefix: sep
 // IDECodeSnippetCompletionScopes: [All]
