@@ -1,5 +1,5 @@
 // Set size
-// 
+// Initialize a view size inside a code block
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: C6D344AB-0160-496A-8A65-A40BBCC5C55D
