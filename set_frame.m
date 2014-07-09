@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 <# view #>.frame = ({
-        CGRect frame = <# view #>.frame;
-        <# code #>
-        frame;
-    });
+    CGRect frame = <# view #>.frame;
+    <# code #>
+    frame;
+});
