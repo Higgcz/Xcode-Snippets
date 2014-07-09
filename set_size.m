@@ -10,5 +10,5 @@
 <# view #>.size = ({
     CGSize size = <# view #>.size;
     <# code #>
-        size;
-    });
+    size;
+});
